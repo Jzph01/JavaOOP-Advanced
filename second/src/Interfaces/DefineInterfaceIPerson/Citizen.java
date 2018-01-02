@@ -1,13 +1,16 @@
 package Interfaces.DefineInterfaceIPerson;
 
-class Citizen implements Person{
+
+class Citizen implements Person {
 
     private String name;
     private int age;
 
+
     public Citizen(String name, int age){
         this.age = age;
         this.name = name;
+
     }
 
     @Override
@@ -19,4 +22,5 @@ class Citizen implements Person{
     public int getAge() {
         return this.age;
     }
+
 }
