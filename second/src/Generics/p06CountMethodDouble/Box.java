@@ -1,4 +1,4 @@
-package Generics.p06GenericCountMethodDouble;
+package Generics.p06CountMethodDouble;
 
 
 public class Box<T extends Comparable<T>> implements Comparable<T>{

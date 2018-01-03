@@ -1,4 +1,4 @@
-package Generics.p06GenericCountMethodDouble;
+package Generics.p06CountMethodDouble;
 
 
 import java.io.BufferedReader;
